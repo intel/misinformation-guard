@@ -1,0 +1,18 @@
+numpy==2.1.1
+pandas==2.3.0
+matplotlib==3.9.2
+lightning==2.5.0.post0
+torch==2.7.1
+torchmetrics==1.6.1
+transformers==4.52.4
+wandb==0.19.7
+huggingface_hub==0.29.1
+notebook==7.4.3
+ipykernel==6.29.5
+openpyxl==3.1.5
+
+# developer tools
+jupyterlab==4.4.3
+black==25.1.0
+pre-commit==4.1.0
+python-dotenv==1.0.1
