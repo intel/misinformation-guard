@@ -5,7 +5,7 @@ lightning==2.5.0.post0
 torch==2.7.1
 torchmetrics==1.6.1
 transformers==4.53.2
-wandb==0.19.7
+wandb==0.21.0
 huggingface_hub==0.29.1
 notebook==7.4.3
 ipykernel==6.29.5
