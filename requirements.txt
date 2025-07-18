@@ -1,6 +1,6 @@
 numpy==2.1.1
 pandas==2.3.0
-matplotlib==3.9.2
+matplotlib==3.9.4
 lightning==2.5.0.post0
 torch==2.7.1
 torchmetrics==1.6.1
